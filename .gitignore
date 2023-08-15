@@ -15,10 +15,5 @@ user_settings.json
 # Ignore IDE-specific files and directories
 .vscode/
 .idea/
-# Ignore log files
-# Ignore log files
-# Ignore log files
-# Ignore log files
-# Ignore log files# Ignore log files
-# Ignore log files
+# Ignore log files - shahroz
 *.log 
