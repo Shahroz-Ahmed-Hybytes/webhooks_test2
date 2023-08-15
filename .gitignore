@@ -18,4 +18,4 @@ user_settings.json
 # Ignore log files - shahroz
 *.log 
 
-# Code Chnage pushing in github and Assets will push to S3.
+# Now it will pull changings to the specific folder along with S3 in the same folder. 
