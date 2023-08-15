@@ -1,0 +1,19 @@
+.gitignnore file
+# Ignore build artifacts
+build/
+bin/
+obj/
+Assets/
+# Ignore sensitive configuration files
+config.ini
+# Ignore temporary files
+*.tmp
+# Ignore macOS system files
+.DS_Store
+# Ignore user-specific files
+user_settings.json
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+# Ignore log files
+*.log 
