@@ -15,7 +15,8 @@ user_settings.json
 # Ignore IDE-specific files and directories
 .vscode/
 .idea/
-# Ignore log files - shahroz
+# Ignore log files - 
 *.log 
 
-# Now it will push.
+# What we want to do is , On push command the Assets folder will push to S3 and rest of the folders and files will push to Github
+#No we will run commands in Terminal
