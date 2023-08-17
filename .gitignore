@@ -18,5 +18,12 @@ user_settings.json
 # Ignore log files - 
 *.log 
 
-# What we want to do is , On push command the Assets folder will push to S3 and rest of the folders and files will push to Github
-#No we will run commands in Terminal
+
+#Steps 
+#First we will go and check S3 Bucket & Github
+#Our S3 Bucket is empty and There is no FOlder named as Assets in Github Right now.
+#We saved our script path in .git/hooks/pre-push Folder
+#This Scenario is for to push our Code in Github and Specific Assets FOlder to S3.
+#Assets folder should not push to Github.
+#These Lines i am Typing are the chnagings in the code. 
+#Now we will push these chnaging.
