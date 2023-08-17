@@ -20,13 +20,5 @@ user_settings.json
 
 
 #Steps 
-#First we will go and check S3 Bucket & Github
-#Our S3 Bucket is empty and There is no FOlder named as Assets in Github Right now.
-#We saved our script path in .git/hooks/pre-push Folder
-#This Scenario is for to push our Code in Github and Specific Assets FOlder to S3.
-#Assets folder should not push to Github.
-#These Lines i am Typing are the chnagings in the code. 
-#Now we will push these chnagings.
-                                                                      #Now, we will push changings
-                                                                       # Code wil push to Github & heavy Assets folder images push to S3 at the same time.
-                                                                       #
+#UPDATING CHANGING SO THAT WE CAN JUSTIFY THAT UPDATED CODE PULLED IN OUR LOCAL SYSTEM
+#AS YOU CAN SEE THERE IS NOT ASSETS FOLDER IN THIS GITHUB and S3 FOLDER WILL BE PULL FROM AWS S3 
