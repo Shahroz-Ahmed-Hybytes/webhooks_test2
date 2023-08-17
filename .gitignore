@@ -26,4 +26,7 @@ user_settings.json
 #This Scenario is for to push our Code in Github and Specific Assets FOlder to S3.
 #Assets folder should not push to Github.
 #These Lines i am Typing are the chnagings in the code. 
-#Now we will push these chnaging.
+#Now we will push these chnagings.
+                                                                      #Now, we will push changings
+                                                                       # Code wil push to Github & heavy Assets folder images push to S3 at the same time.
+                                                                       #
